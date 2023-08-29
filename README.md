@@ -48,7 +48,7 @@ $ git commit -m ‘Мой первый коммит!’
 
 **Хэш** - это странные строчки с набором букв и цифр. Появляется код, когда выводится история коммитов через команду `git log`. Например, вот:
 
-```mermaid
+```
 $ git log
 commit 528eb1e413f239cf35bba08293ea09ac46de8ac9 (HEAD -> master, origin/master)
 Author: Rafail <mactavischgames3012@gmail.com>
